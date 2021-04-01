@@ -1,1 +1,1 @@
-# Banglore_House_Price_Prediction_AWS
+# Bangalore_House_Price_Prediction_AWS
